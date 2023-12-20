@@ -15,8 +15,8 @@ body {
 
 .logo {
 	position: absolute;
-	top: -45%;
-	left: 0%;
+    top: -45%;
+    left: -5%;
 }
 
 .button {
@@ -24,7 +24,7 @@ body {
     background-color: none;
 	color: rgb(255, 255, 255);
 	position: relative;
-    left: 800px;
+    left: 700px;
     top: 30px;
     border: none;
     padding: 2px 15px;
@@ -41,7 +41,7 @@ body {
 	color: black;
 	position: absolute;
     right: 30px;
-    top: 30px;
+    top: 25px;
     border: none;
     padding: 5px 15px;
     text-decoration: none;
@@ -65,8 +65,8 @@ body {
     position: relative;
     width: 1000px;
     height: 229px;
-    top: 250px;
-    left: 25%;
+    top: 180px;
+    left: 7%;
     background-color: #EEEEEE;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     text-align: left;
@@ -76,7 +76,7 @@ body {
     position: absolute;
     width: 100%;
     height: 430px;
-    top: 1000px;
+    top: 900px;
     background-color: #EEEEEE;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     text-align: left;
@@ -106,8 +106,8 @@ body {
     position: absolute;
     width: 1000px;
     height: 229px;
-    top: 680px;
-    left: 40%;
+    top: 600px;
+    left: 32.5%;
     background-color: #EEEEEE;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     text-align: right;
@@ -135,7 +135,7 @@ body {
     width: 1000px;
     height: 300px;
     top: 1700px;
-    left: 40%;
+    left: 30%;
     background-color: #EEEEEE;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     text-align: right;
@@ -155,24 +155,26 @@ body {
 .lines {
     position: relative;
     top: 55px;
-    left: 40%;
+    left: 37%;
 }
 
 .welcom {
     position: absolute;
-    left: 45%;
+    top: 20px;
+    left: 40%;
 }
 
 .welcom-text {
     position: absolute;
-    top: 20%;
-    left: 35%;
+    text-align: center;
+    top: 70px;
+    left: 24%;
 }
 
 .infoo {
     position: absolute;
-    top: 540px;
-    left: 48%;
+    top: 460px;
+    left: 46%;
 }
 
 .ruko {
@@ -183,13 +185,13 @@ body {
 
 .adve {
     position: absolute;
-    left: 1300px;
+    left: 760px;
     top: 1620px;
 }
 
 .olymp {
     position: absolute;
-    left: 1300px;
+    left: 750px;
     top: 1440px;
 }
 
@@ -198,7 +200,7 @@ body {
 	background-color: #336D32;
     position: absolute;
     right: 0px;
-    bottom: -1250px;
+    bottom: -1700px;
     width: 100%;
     height: 250px; 
 }
@@ -242,7 +244,7 @@ body {
 
 .house {
     position: absolute;
-    top: 16%;
+    top: 12%;
     right: 6%;
 }
 
@@ -250,14 +252,14 @@ body {
     color: #FFFFFF;
     font-size: 18px;
     position: absolute;
-    top: 6%;
-    right: 8%;
+    top: 2%;
+    right: 9%;
     text-align: right;
 }
 
 .location {
     position: absolute;
-    top: 32%;
+    top: 30%;
     right: 6%;
 }
 
@@ -265,14 +267,14 @@ body {
     color: #FFFFFF;
     font-size: 18px;
     position: absolute;
-    top: 21%;
-    right: 8%;
+    top: 20%;
+    right: 9%;
     text-align: right;
 }
 
 .sms {
     position: absolute;
-    top: 53%;
+    top: 56%;
     right: 6%;
 }
 
@@ -280,14 +282,14 @@ body {
     color: #FFFFFF;
     font-size: 18px;
     position: absolute;
-    top: 41%;
-    right: 8%;
+    top: 45%;
+    right: 9%;
     text-align: right;
 }
 
 .call {
     position: absolute;
-    top: 70%;
+    top: 75%;
     right: 6%;
 }
 
@@ -295,8 +297,8 @@ body {
     color: #FFFFFF;
     font-size: 18px;
     position: absolute;
-    top: 59%;
-    right: 8%;
+    top: 64%;
+    right: 9%;
     text-align: right;
 }
 
@@ -307,7 +309,7 @@ body {
 }
 
 .name {
-    font-size: 25px;
+    font-size: 23px;
     position: absolute;
     top: 40px;
     left: 280px;
@@ -315,7 +317,7 @@ body {
 }
 
 .info {
-    font-size: 20px;
+    font-size: 16px;
     position: absolute;
     top: 120px;
     left: 280px;
@@ -323,7 +325,7 @@ body {
 }
 
 .infos {
-    font-size: 20px;
+    font-size: 16px;
     position: absolute;
     top: 200px;
     left: 280px;
@@ -331,7 +333,7 @@ body {
 }
 
 .infof {
-    font-size: 20px;
+    font-size: 16px;
     position: absolute;
     top: 280px;
     left: 280px;
